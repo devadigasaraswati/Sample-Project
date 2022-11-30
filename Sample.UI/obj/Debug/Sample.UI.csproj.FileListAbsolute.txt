@@ -1,0 +1,11 @@
+D:\Sample Project\Sample.UI\bin\Sample.UI.dll
+D:\Sample Project\Sample.UI\bin\Sample.UI.pdb
+D:\Sample Project\Sample.UI\bin\Sample.DATA.dll
+D:\Sample Project\Sample.UI\bin\Sample.DTO.dll
+D:\Sample Project\Sample.UI\bin\Sample.DATA.pdb
+D:\Sample Project\Sample.UI\bin\Sample.DTO.pdb
+D:\Sample Project\Sample.UI\obj\Debug\Sample.UI.csprojResolveAssemblyReference.cache
+D:\Sample Project\Sample.UI\obj\Debug\Sample.UI.dll
+D:\Sample Project\Sample.UI\obj\Debug\Sample.UI.pdb
+D:\Sample Project\Sample.UI\bin\Sample.Library.dll
+D:\Sample Project\Sample.UI\bin\Sample.Library.pdb

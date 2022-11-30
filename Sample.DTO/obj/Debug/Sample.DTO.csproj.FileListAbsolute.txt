@@ -1,0 +1,7 @@
+D:\FishnetERP\Sample.DTO\obj\Debug\FishnetERP.DTO.dll
+D:\FishnetERP\Sample.DTO\obj\Debug\FishnetERP.DTO.pdb
+D:\Sample Project\Sample.DTO\bin\Debug\Sample.DTO.dll
+D:\Sample Project\Sample.DTO\bin\Debug\Sample.DTO.pdb
+D:\Sample Project\Sample.DTO\obj\Debug\Sample.DTO.dll
+D:\Sample Project\Sample.DTO\obj\Debug\Sample.DTO.pdb
+D:\Sample Project\Sample.DTO\obj\Debug\Sample.DTO.csprojResolveAssemblyReference.cache

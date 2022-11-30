@@ -1,0 +1,14 @@
+D:\FishnetERP\Sample.Library\bin\Debug\FishnetERP.Library.dll
+D:\FishnetERP\Sample.Library\bin\Debug\FishnetERP.Library.pdb
+D:\FishnetERP\Sample.Library\bin\Debug\FishnetERP.DTO.dll
+D:\FishnetERP\Sample.Library\bin\Debug\FishnetERP.DTO.pdb
+D:\FishnetERP\Sample.Library\obj\Debug\Sample.Library.csprojResolveAssemblyReference.cache
+D:\FishnetERP\Sample.Library\obj\Debug\FishnetERP.Library.dll
+D:\FishnetERP\Sample.Library\obj\Debug\FishnetERP.Library.pdb
+D:\Sample Project\Sample.Library\obj\Debug\Sample.Library.csprojResolveAssemblyReference.cache
+D:\Sample Project\Sample.Library\bin\Debug\Sample.Library.dll
+D:\Sample Project\Sample.Library\bin\Debug\Sample.Library.pdb
+D:\Sample Project\Sample.Library\bin\Debug\Sample.DTO.dll
+D:\Sample Project\Sample.Library\bin\Debug\Sample.DTO.pdb
+D:\Sample Project\Sample.Library\obj\Debug\Sample.Library.dll
+D:\Sample Project\Sample.Library\obj\Debug\Sample.Library.pdb
